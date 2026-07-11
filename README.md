@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Sharma</h1>
 
 <h3 align="center">
-B.Tech CSE (AI) Student | Passionate about Data Visualization, AI & IoT | Building Real-World Projects | Continuous Learner 🚀
+B.Tech CSE (IOT) Student | Passionate about Data Visualization, AI & IoT | Building Real-World Projects | Continuous Learner 🚀
 </h3>
 
 <p align="center">
