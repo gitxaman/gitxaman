@@ -95,7 +95,6 @@ B.Tech CSE (IOT) Student | Passionate about Data Visualization, AI & IoT | Build
 - Artificial Intelligence
 - Data Visualization
 - IoT Systems
-- Full-Stack Web Development
 - Cloud Computing
 
 ---
@@ -103,7 +102,7 @@ B.Tech CSE (IOT) Student | Passionate about Data Visualization, AI & IoT | Build
 ## 📫 Connect with Me
 
 - 📧 **sharmaaamanclass10@gmail.com**
-- 💼 LinkedIn: in/aman-sharma-718711295
+- 💼 LinkedIn: https://www.linkedin.com/in/aman-sharma-718711295/
 
 ---
 
