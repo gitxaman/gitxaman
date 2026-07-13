@@ -103,7 +103,7 @@ B.Tech CSE (IOT) Student | Passionate about Data Visualization, AI & IoT | Build
 ## 📫 Connect with Me
 
 - 📧 **sharmaaamanclass10@gmail.com**
-- 💼 LinkedIn:in/aman-sharma-718711295
+- 💼 LinkedIn: in/aman-sharma-718711295
 
 ---
 
