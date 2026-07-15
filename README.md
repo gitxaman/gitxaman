@@ -22,8 +22,6 @@ B.Tech CSE (IOT) Student | Passionate about Data Visualization, AI & IoT | Build
 
 🚀 Developing real-time applications with Python and Computer Vision
 
-🌱 Currently learning Full-Stack Development, AI, and Cloud Technologies
-
 🎯 Goal: To build impactful software solutions that solve real-world problems
 
 ---
