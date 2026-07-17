@@ -14,7 +14,7 @@ B.Tech CSE (IOT) Student | Passionate about Data Visualization, AI & IoT | Build
 
 ## 👨‍💻 About Me
 
-🎓 B.Tech Computer Science Engineering (AI) Student
+🎓 B.Tech Computer Science Engineering (IOT) Student
 
 💻 Passionate about Python, Data Analytics, AI, IoT, and Data Visualization
 
